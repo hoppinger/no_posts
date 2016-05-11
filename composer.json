@@ -1,0 +1,12 @@
+{
+  "name": "hoppinger/no_posts",
+  "description": "WordPress plugin to disable the 'post' post type.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastiaan de Geus",
+      "email": "sebastiaan@hoppinger.com"
+    }
+  ]
+}
